@@ -1,2 +1,4 @@
  first message from remote repository 
 second message from remote repository 
+message from local repository
+
